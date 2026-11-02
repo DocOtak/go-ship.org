@@ -1,0 +1,14 @@
+---
+title: "GO-SHIP"
+listing:
+  id: go-ship-news
+  contents: news
+  sort: "date desc"
+  type: default
+  feed: true
+  fields: [date, title, author, description]
+---
+GO-SHIP brings together scientists with interests in physical oceanography, the carbon cycle, marine biogeochemistry and ecosystems, and other users and collectors of hydrographic data to develop a globally coordinated network of sustained hydrographic sections as part of the global ocean/climate observing system.
+
+::: {#go-ship-news}
+:::
